@@ -25,13 +25,20 @@ Usage
 
 *Set the value to be encrypted/decrypted*  
 * Move the cursor to the first position of the second line of the LCD display
-* Press the buttons 'up' and 'down' to set the value to be encrypted/decrypted
+* Press the buttons 'up' and 'down' to set the value to be encrypted/decrypted  
   Please note that only characters for A to Z are supported  
 ![image 3](images/enigma-machine-3.png)  
 
 *Phase 3 - Encrypt/decrypt*  
 * Press the button 'select' do encrypt/decrypt the selected value  
+  Please note that the rotors may change value (rotation) when you press on 'select'  
 ![image 4](images/enigma-machine-4.png)  
 
 Repeat the procedure for each value of your secret message.  
 
+----------------------------------
+Example
+----------------------------------
+Initial rotor values: R1=D R2=E R3=F  
+Message to encrypt: HELLOWORLD  
+Encrypted message: STGALBRCEW  
