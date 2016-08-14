@@ -23,7 +23,7 @@ Usage
 * Press the buttons 'up' and 'down' to set a rotor initial value  
 ![image 2](images/enigma-machine-2.png)  
 
-*Set the value to be encrypted/decrypted*  
+*Phase 2 - Set the value to be encrypted/decrypted*  
 * Move the cursor to the first position of the second line of the LCD display
 * Press the buttons 'up' and 'down' to set the value to be encrypted/decrypted  
   Please note that only characters for A to Z are supported  
