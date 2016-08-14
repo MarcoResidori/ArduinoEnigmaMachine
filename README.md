@@ -2,7 +2,7 @@
 Arduino Enigma Machine
 ============================
 
-Arduino sketch that implments a very simplified version of the enigma machine.
+Arduino sketch that implements a very simplified version of the [enigma machine](https://en.wikipedia.org/wiki/Enigma_machine "Enigma Machine").
 
 ![image 1](images/enigma-machine-1.png) 
 
@@ -19,7 +19,7 @@ Usage
 ----------------------------------
 *Phase 1 - Set the rotors*  
 * Turn on the Arduino board
-* Press the buttons 'left' and 'righ' to select a rotor
+* Press the buttons 'left' and 'right' to select a rotor
 * Press the buttons 'up' and 'down' to set a rotor initial value  
 ![image 2](images/enigma-machine-2.png)  
 
@@ -31,7 +31,7 @@ Usage
 
 *Phase 3 - Encrypt/decrypt*  
 * Press the button 'select' do encrypt/decrypt the selected value  
-  Please note that the rotors may change value (rotation) when you press on 'select'  
+  Please note that the rotors may change value (rotation) when 'select' is pressed  
 ![image 4](images/enigma-machine-4.png)  
 
 Repeat the procedure for each value of your secret message.  
@@ -39,6 +39,6 @@ Repeat the procedure for each value of your secret message.
 ----------------------------------
 Example
 ----------------------------------
-Initial rotor values: R1=D R2=E R3=F  
+Initial rotor values: R1=D, R2=E, R3=F  
 Message to encrypt: HELLOWORLD  
 Encrypted message: STGALBRCEW  
