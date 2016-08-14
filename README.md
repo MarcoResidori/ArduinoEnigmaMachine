@@ -10,7 +10,7 @@ Arduino sketch that implements a very simplified version of the [enigma machine]
 Hardware Setup
 ----------------------------------
 * Arduino Uno 
-* LCD Keypad Shield (form DFRobot)
+* DFRobot LCD Keypad Shield
 * Buzzer
 * USB Cable
 
@@ -39,6 +39,6 @@ Repeat the procedure for each value of your secret message.
 ----------------------------------
 Example
 ----------------------------------
-Initial rotor values: R1=D, R2=E, R3=F  
-Message to encrypt: HELLOWORLD  
-Encrypted message: STGALBRCEW  
+Initial rotor values: R1=*D*, R2=*E*, R3=*F*  
+Message to encrypt: *HELLOWORLD*  
+Encrypted message: *STGALBRCEW*  
