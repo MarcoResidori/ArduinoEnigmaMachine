@@ -18,7 +18,7 @@ Hardware Setup
 Usage
 ----------------------------------
 ## Phase 1 - Set the rotors
-* Turn on the board
+* Turn on the Arduino board
 * Press the buttons 'left' and 'righ' to select a rotor
 * Press the buttons 'up' and 'down' to set a rotor initial value
 ![image 2](images/enigma-machine-2.png)
