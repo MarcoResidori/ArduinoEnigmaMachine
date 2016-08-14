@@ -26,7 +26,6 @@ Usage
 *Phase 2 - Set the value to be encrypted/decrypted*  
 * Move the cursor to the first position of the LCD display's second line   
 * Press the buttons 'up' and 'down' to set the value to be encrypted/decrypted  
-  Please note that only characters for A to Z are supported  
 ![image 3](images/enigma-machine-3.png)  
 
 *Phase 3 - Encrypt/decrypt*  
@@ -34,7 +33,7 @@ Usage
   Please note that the rotors may change value (rotation) when 'select' is pressed  
 ![image 4](images/enigma-machine-4.png)  
 
-Repeat the procedure for each value of your secret message.  
+Repeat the procedure for each value of your 'secret' message.  
 
 ----------------------------------
 Example
