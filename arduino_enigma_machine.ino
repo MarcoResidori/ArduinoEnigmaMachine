@@ -412,7 +412,7 @@ void updateDisplay()
 int read_LCD_buttons()
 {
  adc_key_in = analogRead(0);   
- if (adc_key_in > 1000) return btnNONE; // 1st option for speed reasons since it will be the most likely result
+ if (adc_key_in > 1000) return btnNONE; 
  if (adc_key_in < 50)   return btnRIGHT;  
  if (adc_key_in < 195)  return btnUP; 
  if (adc_key_in < 380)  return btnDOWN; 
