@@ -1,6 +1,6 @@
 # Arduino Enigma Machine
 
-Arduino sketch that implements a very simplified version of the [enigma machine](https://en.wikipedia.org/wiki/Enigma_machine "Enigma Machine").
+Arduino sketch that implements a very simplified version of the [enigma machine](https://en.wikipedia.org/wiki/Enigma_machine "Enigma Machine") with 3 rotors.
 
 ![image 1](images/enigma-machine-1.png) 
 
