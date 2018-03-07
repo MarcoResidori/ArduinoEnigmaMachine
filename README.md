@@ -1,22 +1,16 @@
-============================
-Arduino Enigma Machine
-============================
+# Arduino Enigma Machine
 
 Arduino sketch that implements a very simplified version of the [enigma machine](https://en.wikipedia.org/wiki/Enigma_machine "Enigma Machine").
 
 ![image 1](images/enigma-machine-1.png) 
 
-----------------------------------
-Hardware Setup
-----------------------------------
+## Hardware Setup
 * Arduino Uno 
 * DFRobot LCD Keypad Shield
 * Buzzer
 * USB Cable
 
-----------------------------------
-Usage
-----------------------------------
+## Usage
 *Phase 1 - Set the rotors*  
 * Turn on the Arduino board
 * Press the buttons 'left' and 'right' to select a rotor
@@ -35,9 +29,7 @@ Usage
 
 Repeat the procedure for each value of your 'secret' message.  
 
-----------------------------------
-Example
-----------------------------------
+## Example
 Initial rotor values: R1=**D**, R2=**E**, R3=**F**  
 Message to encrypt: **HELLOWORLD**  
 Encrypted message: **STGALBRCEW**  
